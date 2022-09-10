@@ -141,12 +141,15 @@ description {
   .content {
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    padding: 5rem 3rem;
+    align-items: center;    
   }
   .side {
-    margin-bottom: 3rem;
-    width: 100%;
+    width: 70%;
+  }
+  main{
+width:100vh;
+scale: 0.7;
+margin-right: 5vh;
   }
 }
 
@@ -199,8 +202,4 @@ description {
 .social a:active {
   opacity: 1;
   transform: scale(1.1);
-}
-
-figure:hover {
-  transform: scale(2);
 }
