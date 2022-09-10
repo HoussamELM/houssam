@@ -60,6 +60,8 @@
   animation-name: bounceIn;
 }
 
+
+
 .social li:nth-child(1) {
   animation-delay: 800ms;
 }
