@@ -1,5 +1,5 @@
 html {
-  background-color: #5f45bb;
+  background-color: #4B79A1;
   background-image: linear-gradient(to bottom right, #4B79A1, #283E51);
   color: #fff;
   font-family: "Quicksand", sans-serif;
@@ -144,7 +144,7 @@ description {
     align-items: center;    
   }
   .side {
-    width: 70%;
+    width: 50%;
   }
   main{
 width:100vh;
