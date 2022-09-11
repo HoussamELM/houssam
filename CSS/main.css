@@ -167,6 +167,7 @@ margin-right: 5vh;
     margin-left: 4rem;
     order: 2;
     width: 20rem;
+    scale: 1.2;
   }
   .about {
     flex-grow: 1;
